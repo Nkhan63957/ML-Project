@@ -48,7 +48,7 @@ st.markdown("""
         background-color: #f8f9fa;
     }
     .stSelectbox > div > div {
-        background-color: white;
+        background-color: black;
     }
 </style>
 """, unsafe_allow_html=True)
